@@ -1,0 +1,2 @@
+1. Чтобы обрезать время от датывремени использовать substr(to_char(),1,10)
+2. sum(amount) over (order by visited_on rows between 6 preceding and current row)
